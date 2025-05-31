@@ -31,6 +31,6 @@ How It Works
 
 ---
 
-🧾 Sample Output
+Sample Output
 
 ![image](https://github.com/user-attachments/assets/58a69a0d-a900-4ea1-b0bf-b1d8fcf389a5)
